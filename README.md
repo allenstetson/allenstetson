@@ -14,6 +14,8 @@ It's been said that my hobby is having hobbies. I enjoy Home Automation, Voice I
 
 I am an ambassador for Diversity, Equity, & Inclusion with my company (a program called Way2Play, as well as a culture group which I started), and am passionate about gaining an awareness of our unconscious biases so that we might overcome them, in speaking up and speaking out in an effort to change our culture and stereotypical industry "norms", and in being a trusted ally for the marginalized and those who are discriminated against.
 
+I am an active member of the Visual Effects Society, a global honorary society recognizing excellence in VFX. I am a co-recipient of two Academy Awards (Shrek, Avatar - The Way of Water), and I spent over a decade as a member of The Animation Guild, Local 839.
+
 # 🌱 Currently Learning
 I completed a Machine Learning course with NVidia, and have a keen interest in ML and DL. I'm developing a survival-style game in Unreal 5 in an effort to learn that tool more intimately. I'm learning about USD as our studio adopts it. I continue to learn on a daily basis as I continue working in Python, AWS, APIs and databases.
 
