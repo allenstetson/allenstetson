@@ -18,7 +18,7 @@ I am an ambassador for Diversity, Equity, & Inclusion with my company (a program
 I completed a Machine Learning course with NVidia, and have a keen interest in ML and DL. I'm developing a survival-style game in Unreal 5 in an effort to learn that tool more intimately. I'm learning about USD as our studio adopts it. I continue to learn on a daily basis as I continue working in Python, AWS, APIs and databases.
 
 # 💞️ Collaboration
-Given my non-existant free time both at work and at home, with any spare time fully devoted to my family, collaboration is off the table for me, unless our interests align.
+Given my non-existant free time both at work and at home, with any spare time fully devoted to my family, collaboration is only possible if our interests and current undertakings align.
 
 # 📫 Contact / Info
 * https://www.linkedin.com/in/allen-stetson-6243822/
