@@ -1,29 +1,95 @@
-# 👋 Hi
-Hi, I’m @allenstetson
-I'm a senior software engineer and senior manager 25+ years of experience in the film and video game industries.
+## 👋 Hi
 
-# 💼 Career
-After two years as a project Manager in Hewlett Packard's Media Solutions group, I began my first "industry" job at PDI/DreamWorks. This began a 15 year career with the company, including a move to Los Angeles where I worked at the DreamWorks Animation headquarters. I spent a majority of my time as a Technical Director for Animation, Surfacing, Lighting, Crowds, FX, Layout, Consumer Products, and Stereo Conversion, growing into a Lead Technical Director, and Supervising Technical Director. I also spent several years on the artistic side as a Department Supervisor for Crowds, a highly technical department.
+Hi, I’m Allen.
 
-Following my tenure at DWA, I was employed by Weta Digital for several years as the Lead for the motion capture and previsualization support team in Los Angeles where we worked for James Cameron's Lightstorm Entertainment on premises, ensuring that the mocap and previz teams had all of the software that they needed to be successful in production on Avatar 2 and subsequent sequels. This job presented a wide variety of unique challenges, including my supervision being across the globe in New Zealand along with the pipeline team that provided the core software for our scene description, etc. We had to be tremendously self-reliant for training, features, fixes, and management, budgeting, and talent acquisition.
+I’ve spent the last 25+ years building software for film, VFX, and game cinematics—helping artists and production teams turn ideas into finished frames.
 
-Ultimately I ended up in my current role at Blizzard Animation in Cinematics (part of Story & Franchise Development) where I have served as a Software Engineer (Pipeline), a Senior Technical Director (Layout), and now Senior Manager of the Pipeline dedpartment. We are tasked with maintaining and extending a wide variety of pipeline technologies for the studio, from software environments and continuous integration, to asset databases and APIs, to artist-facing tools for media & review, disk management, production management, tool frameworks, and beyond.
+Most of my work lives behind studio walls, but it has supported everything from animated films to real-time cinematic pipelines.
 
-# 👀 Interests
-It's been said that my hobby is having hobbies. I enjoy Home Automation, Voice Interaction (Amazon Alexa), Home Networking, Lego, Gardening, Hiking/Camping/Backpacking, Video Games (recently Overwatch, Minecraft Dungeons, various RetroPie titles...), Boardgames, Dungeons & Dragons, Music (bass, saxaphone, vocals), Videography and Filmmaking, and firearms (target shooting). I volunteered for 5 years as a Cub Scout Den Leader. I volunteer for my local and former church both as a web developer (www.st-clare.org), videographer, and musician (playing bass and singing on Sundays). In the past I have been trained in CERT (Community Emergency Response Team), was certified in First Aid and AED, and led a disaster preparedness program for my neighborhood. I studied Martial Arts for 8 years, achieving high ranks in Kenpo karate and a working knowledge of Seidokan Aikido.
+I like solving problems where engineering meets creativity, and where the answer isn’t just “correct”—it has to work in production.
 
-I am an ambassador for Diversity, Equity, & Inclusion with my company (a program called Way2Play, as well as a culture group which I started), and am passionate about gaining an awareness of our unconscious biases so that we might overcome them, in speaking up and speaking out in an effort to change our culture and stereotypical industry "norms", and in being a trusted ally for the marginalized and disadvantaged.
+---
 
-I am an active member of the Visual Effects Society, a global honorary society recognizing excellence in VFX. I am a co-recipient of two Academy Awards (Shrek, Avatar - The Way of Water), and I spent over a decade as a member of The Animation Guild, Local 839.
+## 🎬 Career
 
-# 🌱 Currently Learning
-I completed a Machine Learning course with NVidia, and have a keen interest in ML and DL. I'm developing a survival-style game in Unreal 5 in an effort to learn that tool more intimately. I'm learning about USD as our studio adopts it. I continue to learn on a daily basis as I continue working in Python, AWS, APIs and databases.
+I started in tech as a Project Manager at Hewlett-Packard before moving into my first industry role at DreamWorks Animation.
 
-# 💞️ Collaboration
-Given my non-existant free time both at work and at home, with any spare time fully devoted to my family, collaboration is only possible if our interests and current undertakings align.
+That turned into a 15-year journey across:
+- Technical Direction (Lighting, FX, Crowds)
+- Stereo Conversion
+- Supervising Technical Direction
+- Department leadership
 
-# 📫 Contact / Info
-* https://www.linkedin.com/in/allen-stetson-6243822/
-* https://www.imdb.com/name/nm1123400/?ref_=nmls_hd
-* https://www.youtube.com/channel/UCYQ8EdozKplcqdOT0MHK3Sg
-* allen.stetson@gmail.com
+After DreamWorks, I joined Weta Digital in Los Angeles, leading support for motion capture and previs systems used by Lightstorm Entertainment during production of *Avatar: The Way of Water*. That role required constant coordination across teams in the US and New Zealand, solving problems in real time under production pressure.
+
+Today, I’m at Blizzard Entertainment in Cinematics, where I’ve grown from Software Engineer → Senior Technical Director → Senior Manager of Pipeline.
+
+My team supports the systems that enable over a hundred artists and dozens of technicians to do their work—everything from infrastructure and APIs to artist-facing tools and production workflows.
+
+---
+
+## 🧠 Lately
+
+These days, I’ve been especially interested in:
+
+- AI-driven development  
+  I’m part of an internal experiment exploring what happens when you try to write zero code by hand and instead direct agents to do the work.  
+  It turns out the hard part isn’t coding—it’s thinking clearly.
+- Observability in production systems  
+  Understanding what’s happening in complex pipelines while they’re running—not after they break.
+- Designing systems that people actually want to use  
+  (This is harder than it sounds.)
+
+---
+
+## 🎥 Outside of Work
+
+It’s been said that my hobby is having hobbies, and that’s probably fair.
+
+- Photography & video  
+  Volunteer work for local middle and high schools—events, performances, athletics
+- Filmmaking  
+  Experimenting with cinematography, lighting, and storytelling
+- Music  
+  Bass, saxophone, vocals
+- Games  
+  Board games, D&D, retro games
+- Outdoors  
+  Hiking and backpacking
+
+---
+
+## 🤝 Community & Industry
+
+- Founding member — Society for Game Cinematics  
+- Member — Visual Effects Society  
+- Co-recipient of Academy Awards (*Shrek*, *Avatar: The Way of Water*)  
+- Former member — Animation Guild, Local 839  
+
+---
+
+## ⚠️ About This GitHub
+
+Most of the work I’m proud of lives behind NDAs, so this GitHub doesn’t really reflect the scale or complexity of the systems I’ve worked on.
+
+If anything, think of this space as:
+- experiments
+- side projects
+- and whatever I’m curious about at the moment
+
+---
+
+## 📖 More About Me
+
+If you’re interested in a more complete picture—including hobbies, history, and things I’ve spent time on over the years—you can find that here:
+
+👉 [More About Me](./ABOUT_ME.md)
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/allen-stetson  
+- IMDB: https://www.imdb.com/name/nm1123400/  
+- YouTube: https://www.youtube.com/channel/UCYQ8EdozKplcqdOT0MHK3Sg  
+- Email: allen.stetson@gmail.com  
